@@ -1,0 +1,6 @@
+{
+  "name": "Anzaar Restaurant",
+  "description": "Premium food ordering and management platform for Anzaar Restaurant in Daska, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
